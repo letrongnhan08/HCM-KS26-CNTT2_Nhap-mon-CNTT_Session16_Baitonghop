@@ -1,4 +1,4 @@
-### **(Bài tập tổng hợp) Ngày Đầu Thực Tập Dev Tại Công Ty Công Nghệ** 
+### **(Bài tập tổng hợp)**
 
 ### **Phần A: Thiết lập Profile và Bookmark chuẩn Dev**
 
